@@ -1376,7 +1376,7 @@ msgstr "Exporter"
 #: ../gourmet/exporters/exportManager.py:157
 #, python-format
 msgid "Recipes successfully exported to <a href=\"file:///%s\">%s</a>"
-msgstr ""
+msgstr "Recettes exportées avec succès vers <a href=\"file:///%s\">%s</a>"
 
 #: ../gourmet/exporters/exporter.py:206 ../gourmet/exporters/exporter.py:208
 #: ../gourmet/exporters/exporter.py:512 ../gourmet/exporters/exporter.py:514
@@ -1738,7 +1738,7 @@ msgstr "Importer"
 #: ../gourmet/importers/importManager.py:190
 #, fuzzy
 msgid "Recipes successfully imported"
-msgstr "Importation de KRecipe"
+msgstr "Recettes importées avec succès"
 
 #: ../gourmet/importers/importManager.py:244
 msgid "All importable files"
